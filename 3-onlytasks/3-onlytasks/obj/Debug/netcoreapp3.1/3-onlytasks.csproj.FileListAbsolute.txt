@@ -1,0 +1,14 @@
+C:\Users\BAKU\source\repos\3-onlytasks\3-onlytasks\bin\Debug\netcoreapp3.1\3-onlytasks.exe
+C:\Users\BAKU\source\repos\3-onlytasks\3-onlytasks\bin\Debug\netcoreapp3.1\3-onlytasks.deps.json
+C:\Users\BAKU\source\repos\3-onlytasks\3-onlytasks\bin\Debug\netcoreapp3.1\3-onlytasks.runtimeconfig.json
+C:\Users\BAKU\source\repos\3-onlytasks\3-onlytasks\bin\Debug\netcoreapp3.1\3-onlytasks.runtimeconfig.dev.json
+C:\Users\BAKU\source\repos\3-onlytasks\3-onlytasks\bin\Debug\netcoreapp3.1\3-onlytasks.dll
+C:\Users\BAKU\source\repos\3-onlytasks\3-onlytasks\bin\Debug\netcoreapp3.1\3-onlytasks.pdb
+C:\Users\BAKU\source\repos\3-onlytasks\3-onlytasks\obj\Debug\netcoreapp3.1\3-onlytasks.csproj.AssemblyReference.cache
+C:\Users\BAKU\source\repos\3-onlytasks\3-onlytasks\obj\Debug\netcoreapp3.1\3-onlytasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAKU\source\repos\3-onlytasks\3-onlytasks\obj\Debug\netcoreapp3.1\3-onlytasks.AssemblyInfoInputs.cache
+C:\Users\BAKU\source\repos\3-onlytasks\3-onlytasks\obj\Debug\netcoreapp3.1\3-onlytasks.AssemblyInfo.cs
+C:\Users\BAKU\source\repos\3-onlytasks\3-onlytasks\obj\Debug\netcoreapp3.1\3-onlytasks.csproj.CoreCompileInputs.cache
+C:\Users\BAKU\source\repos\3-onlytasks\3-onlytasks\obj\Debug\netcoreapp3.1\3-onlytasks.dll
+C:\Users\BAKU\source\repos\3-onlytasks\3-onlytasks\obj\Debug\netcoreapp3.1\3-onlytasks.pdb
+C:\Users\BAKU\source\repos\3-onlytasks\3-onlytasks\obj\Debug\netcoreapp3.1\3-onlytasks.genruntimeconfig.cache
