@@ -12,3 +12,17 @@ C:\Users\BAKU\source\repos\4-onlytasks\4-onlytasks\obj\Debug\netcoreapp3.1\4-onl
 C:\Users\BAKU\source\repos\4-onlytasks\4-onlytasks\obj\Debug\netcoreapp3.1\4-onlytasks.dll
 C:\Users\BAKU\source\repos\4-onlytasks\4-onlytasks\obj\Debug\netcoreapp3.1\4-onlytasks.pdb
 C:\Users\BAKU\source\repos\4-onlytasks\4-onlytasks\obj\Debug\netcoreapp3.1\4-onlytasks.genruntimeconfig.cache
+C:\Users\BAKU\Desktop\newones\4-onlytasks\4-onlytasks\bin\Debug\netcoreapp3.1\4-onlytasks.exe
+C:\Users\BAKU\Desktop\newones\4-onlytasks\4-onlytasks\bin\Debug\netcoreapp3.1\4-onlytasks.deps.json
+C:\Users\BAKU\Desktop\newones\4-onlytasks\4-onlytasks\bin\Debug\netcoreapp3.1\4-onlytasks.runtimeconfig.json
+C:\Users\BAKU\Desktop\newones\4-onlytasks\4-onlytasks\bin\Debug\netcoreapp3.1\4-onlytasks.runtimeconfig.dev.json
+C:\Users\BAKU\Desktop\newones\4-onlytasks\4-onlytasks\bin\Debug\netcoreapp3.1\4-onlytasks.dll
+C:\Users\BAKU\Desktop\newones\4-onlytasks\4-onlytasks\bin\Debug\netcoreapp3.1\4-onlytasks.pdb
+C:\Users\BAKU\Desktop\newones\4-onlytasks\4-onlytasks\obj\Debug\netcoreapp3.1\4-onlytasks.csproj.AssemblyReference.cache
+C:\Users\BAKU\Desktop\newones\4-onlytasks\4-onlytasks\obj\Debug\netcoreapp3.1\4-onlytasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAKU\Desktop\newones\4-onlytasks\4-onlytasks\obj\Debug\netcoreapp3.1\4-onlytasks.AssemblyInfoInputs.cache
+C:\Users\BAKU\Desktop\newones\4-onlytasks\4-onlytasks\obj\Debug\netcoreapp3.1\4-onlytasks.AssemblyInfo.cs
+C:\Users\BAKU\Desktop\newones\4-onlytasks\4-onlytasks\obj\Debug\netcoreapp3.1\4-onlytasks.csproj.CoreCompileInputs.cache
+C:\Users\BAKU\Desktop\newones\4-onlytasks\4-onlytasks\obj\Debug\netcoreapp3.1\4-onlytasks.dll
+C:\Users\BAKU\Desktop\newones\4-onlytasks\4-onlytasks\obj\Debug\netcoreapp3.1\4-onlytasks.pdb
+C:\Users\BAKU\Desktop\newones\4-onlytasks\4-onlytasks\obj\Debug\netcoreapp3.1\4-onlytasks.genruntimeconfig.cache
