@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BAKU\\Desktop\\newones\\5-onlytasks\\5-onlytasks\\5-onlytasks.csproj",
-      "projectName": "5-onlytasks",
-      "projectPath": "C:\\Users\\BAKU\\Desktop\\newones\\5-onlytasks\\5-onlytasks\\5-onlytasks.csproj",
+      "projectUniqueName": "C:\\Users\\BAKU\\source\\repos\\6-onlytasks\\6-onlytasks\\6-onlytasks.csproj",
+      "projectName": "6-onlytasks",
+      "projectPath": "C:\\Users\\BAKU\\source\\repos\\6-onlytasks\\6-onlytasks\\6-onlytasks.csproj",
       "packagesPath": "C:\\Users\\BAKU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BAKU\\Desktop\\newones\\5-onlytasks\\5-onlytasks\\obj\\",
+      "outputPath": "C:\\Users\\BAKU\\source\\repos\\6-onlytasks\\6-onlytasks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BAKU\\AppData\\Roaming\\NuGet\\NuGet.Config",

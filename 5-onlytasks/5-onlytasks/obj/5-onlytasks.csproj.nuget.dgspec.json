@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BAKU\\source\\repos\\5-onlytasks\\5-onlytasks\\5-onlytasks.csproj": {}
+    "C:\\Users\\BAKU\\Desktop\\newones\\5-onlytasks\\5-onlytasks\\5-onlytasks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BAKU\\source\\repos\\5-onlytasks\\5-onlytasks\\5-onlytasks.csproj": {
+    "C:\\Users\\BAKU\\Desktop\\newones\\5-onlytasks\\5-onlytasks\\5-onlytasks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BAKU\\source\\repos\\5-onlytasks\\5-onlytasks\\5-onlytasks.csproj",
+        "projectUniqueName": "C:\\Users\\BAKU\\Desktop\\newones\\5-onlytasks\\5-onlytasks\\5-onlytasks.csproj",
         "projectName": "5-onlytasks",
-        "projectPath": "C:\\Users\\BAKU\\source\\repos\\5-onlytasks\\5-onlytasks\\5-onlytasks.csproj",
+        "projectPath": "C:\\Users\\BAKU\\Desktop\\newones\\5-onlytasks\\5-onlytasks\\5-onlytasks.csproj",
         "packagesPath": "C:\\Users\\BAKU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BAKU\\source\\repos\\5-onlytasks\\5-onlytasks\\obj\\",
+        "outputPath": "C:\\Users\\BAKU\\Desktop\\newones\\5-onlytasks\\5-onlytasks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BAKU\\AppData\\Roaming\\NuGet\\NuGet.Config",

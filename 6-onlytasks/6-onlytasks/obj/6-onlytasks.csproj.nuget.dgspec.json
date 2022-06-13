@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BAKU\\Desktop\\newones\\4-onlytasks\\4-onlytasks\\4-onlytasks.csproj": {}
+    "C:\\Users\\BAKU\\source\\repos\\6-onlytasks\\6-onlytasks\\6-onlytasks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BAKU\\Desktop\\newones\\4-onlytasks\\4-onlytasks\\4-onlytasks.csproj": {
+    "C:\\Users\\BAKU\\source\\repos\\6-onlytasks\\6-onlytasks\\6-onlytasks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BAKU\\Desktop\\newones\\4-onlytasks\\4-onlytasks\\4-onlytasks.csproj",
-        "projectName": "4-onlytasks",
-        "projectPath": "C:\\Users\\BAKU\\Desktop\\newones\\4-onlytasks\\4-onlytasks\\4-onlytasks.csproj",
+        "projectUniqueName": "C:\\Users\\BAKU\\source\\repos\\6-onlytasks\\6-onlytasks\\6-onlytasks.csproj",
+        "projectName": "6-onlytasks",
+        "projectPath": "C:\\Users\\BAKU\\source\\repos\\6-onlytasks\\6-onlytasks\\6-onlytasks.csproj",
         "packagesPath": "C:\\Users\\BAKU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BAKU\\Desktop\\newones\\4-onlytasks\\4-onlytasks\\obj\\",
+        "outputPath": "C:\\Users\\BAKU\\source\\repos\\6-onlytasks\\6-onlytasks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BAKU\\AppData\\Roaming\\NuGet\\NuGet.Config",

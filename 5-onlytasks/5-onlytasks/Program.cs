@@ -6,22 +6,29 @@ namespace _5_onlytasks
     {
         static void Main(string[] args)
         {
-            string[] names = { "Aslan", "Bulut", "Agha", "Aygun", "Adem" };
+            string[] names = { "Aslan", "Asif", "Agha", "Aygun", "Adem" };
             WantedNames(ref names);
             Console.WriteLine(WantedNames(ref names));
 
             static bool WantedNames(ref string[] names)
             {
-                
+                int count=0;
                     foreach (var items in names)
                     {
                         if (items.StartsWith('A'))
                         {
-                            return true;
+                        count++; 
                         }
                     }
+                if (count == names.Length)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
                 
-                return false;
             } 
         }
     }
